@@ -8,3 +8,5 @@ In this project, I developed a compelling infographic that highlights the stagge
 
 **Note**  
 I made my Infographic on Infogram [The call for zero-waste in fashion and textiles](https://infogram.com/fashion-waste-1h7v4pd0dv0v84k)
+
+[Return to my portfolio](https://tracietruong.github.io/Portfolio/)
